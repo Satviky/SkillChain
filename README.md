@@ -14,12 +14,15 @@ Connect people who want to teach with those who want to learn. Match by skill, a
 
 ## 🌟 Features (Planned)
 - Skill profiles
-- Token or XP-based bartering system
 - Request board
-- Verified peer reviews
+
 
 ## 📦 Tech Stack (Proposed)
 React • Node.js • MongoDB/Postgres • WebSockets
 
 ## ✨ Status
 Ideation phase. First proposed by Satvik Gupta, July 2025.
+
+Notes: 
+I don't know if i will be able to make it or not but i am just putting in my idea here... 
+I don't want to loose this great idea...
